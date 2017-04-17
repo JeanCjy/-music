@@ -1,0 +1,13 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/jquery-3.1.0.js",
+      "js/app.js",
+      "css/index.css",
+      "css/font-awesome.min.css"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
